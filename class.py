@@ -7,7 +7,7 @@ class Car(object):
         self.color = color
         self.company = company
         self.speed_limit = speed_limit
-        self.model = ModuleNotFoundError
+        self.model = model
 
     def start(self):
         print("started")
